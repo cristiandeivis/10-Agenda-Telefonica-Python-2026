@@ -1,0 +1,3 @@
+{'Codigo': 1, 'Nome': 'teste', 'Telefone': '32222222'} 
+{'Codigo': 2, 'Nome': 'teste2', 'Telefone': '32251515'} 
+{'Codigo': 3, 'Nome': 'teste3', 'Telefone': '32226565'} 
